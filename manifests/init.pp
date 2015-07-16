@@ -1,4 +1,4 @@
-class puppet-helloworld {
+class helloworld {
 	notify { 'hello, world!': }
 		
 }
