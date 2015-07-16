@@ -1,4 +1,4 @@
-class puppet-helloworld::motd {
+class helloworld::motd {
 
     file { '/etc/motd':
     owner  => 'root',
