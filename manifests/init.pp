@@ -1,4 +1,4 @@
 class helloworld {
-	notify { 'hello, world!': }
+	notify { 'Goodbye cruel world!': }
 		
 }
